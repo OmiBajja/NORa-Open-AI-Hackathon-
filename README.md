@@ -1,5 +1,6 @@
 # NORa
 
+This is a Tinker AI hackathon for Open AI project done by Omar Bajja and Teddy Coeffet
 NORa is a WhatsApp-native personal second brain. A user can send a text or voice note, and the agent can turn it into organized Notion memory, calendar actions, and a follow-up reminder without leaving the conversation.
 
 ## Why WhatsApp matters
